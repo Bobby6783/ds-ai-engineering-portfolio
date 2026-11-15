@@ -1,0 +1,9 @@
+order_id,customer_name,category,amount,region
+1001,  Rahul Sharma , electronics , 45000.50, West
+1002,PRIYA PATEL,Clothing,1200.00,north
+1001,  Rahul Sharma , electronics , 45000.50, West
+1003,Amit Verma,GROCERIES,invalid_price,East
+1004,Sneha Joshi,Electronics,28500,
+1005,Vikram Singh,  clothing,3400.75,SOUTH
+1006,Ananya Rao,Groceries,-500.00,West
+1007,Karan Mehta,Books,850.00,North
